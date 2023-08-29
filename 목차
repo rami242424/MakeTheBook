@@ -1,0 +1,25 @@
+수요일 8시
+
+배열
+-배열이란
+-배열의 특징
+-'length' 프로퍼티
+-다차원 배열
+-배열 메소드 (pop push shift unshift...10개 미만으로 추려서)
+
+
+변수
+-var let const 차이점 및 각 쓰임
+
+제어문(반복문 조건문)
+-for, while, break, continue, 객체반복문, 배열반복문
+-if, switch, boolean
+
+타입
+-Boolean 타입
+-Null 타입
+-Undefined 타입
+-Number 타입
+-BigInt 타입
+-String 타입
+-Symbol 타입
